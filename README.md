@@ -22,11 +22,6 @@ As Random Forest consists of multiple weak classificators it is a great candidat
   * v is number of features we selected
   * n is number of samples we take into consideration
 
-![alt_text](https://cdn1.bbcode0.com/uploads/2021/6/24/f5d0be789c85e5f513b541eedda71ecf-full.png)
+![alt text](https://github.com/permitt/random-forest/blob/master/parllel.png?raw=true)
 <br/>
 _source: https://cse.buffalo.edu/faculty/miller/Courses/CSE633/Hu-Fall-2012-CSE633.pdf_
-
-### How to run the program
-
-
-### Results and conclusion
